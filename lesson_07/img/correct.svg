@@ -1,0 +1,13 @@
+<svg width="37" height="36" viewBox="0 0 37 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Filled Icons/Check Circle" clip-path="url(#clip0_211_5511)">
+<g id="Check Circle Icon">
+<path id="Vector" d="M18.5 36C28.4414 36 36.5 27.9414 36.5 18C36.5 8.0586 28.4414 0 18.5 0C8.5586 0 0.5 8.0586 0.5 18C0.5 27.9414 8.5586 36 18.5 36Z" fill="#4A3AFF"/>
+<path id="Check" d="M10.354 19.1636L15.0088 23.8185L26.6459 12.1814" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_211_5511">
+<rect width="36" height="36" fill="white" transform="translate(0.5)"/>
+</clipPath>
+</defs>
+</svg>
